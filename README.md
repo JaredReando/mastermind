@@ -18,7 +18,7 @@ The game is over when either the player correctly guesses the pattern, or the us
 
 <img src="img/grab2.png" alt="home screen">
 
- _View a hosted version of this project [here](https://jaredreando.github.io/mastermind/)_
+ View a hosted version of this project [here](https://jaredreando.github.io/mastermind/)_
 
 ## Setup/Installation Instructions
 
