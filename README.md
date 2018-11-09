@@ -2,7 +2,7 @@
 
 #### _A web app for the code breaking game 'Mastermind' -- 11.08.2018_
 
-#### By **_Daniel Bennett, Alex Garcia, Jared Reando, and Kristin Brewer-Lowe_**
+#### By **_Jared Reando, Daniel Bennett, Alex Garcia, and Kristin Brewer-Lowe_**
 
 ## Description
 
