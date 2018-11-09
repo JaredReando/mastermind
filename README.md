@@ -14,7 +14,7 @@ _A website that lets the user play the board game "Mastermind". In this game the
 
 ## Setup/Installation Instructions
 
-_Run game from GithubPages at:_
+_Run game from GithubPages at: https://jaredreando.github.io/mastermind/_
 
 ## Known Bugs
 
