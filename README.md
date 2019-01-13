@@ -1,3 +1,5 @@
+ _View a hosted version of this project [here](https://jaredreando.github.io/mastermind/)_
+ 
 # _Mastermind_
 
 #### _A web app for the code breaking game 'Mastermind' -- 11.08.2018_
@@ -18,7 +20,7 @@ The game is over when either the player correctly guesses the pattern, or the us
 
 <img src="img/grab2.png" alt="home screen">
 
- _View a hosted version of this project [here](https://jaredreando.github.io/mastermind/)_
+
 
 ## Setup/Installation Instructions
 
